@@ -21,6 +21,8 @@ For this project, the following python libraries were used:
 - pandas - for data analysis
 - seaborn - for visualisation
 
+# Executing the code
+
 The code is available as jypyter notebooks, available under /scripts/. 
 
 To launch the notebook, open terminal and run the command: 
