@@ -13,3 +13,20 @@ The dataset comprises of information on the following parameters:
 - departments
 
 The details of the data are available [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+
+# Tools
+
+For this project, the following python libraries were used: 
+
+- pandas - for data analysis
+- seaborn - for visualisation
+
+The code is available as jypyter notebooks, available under /scripts/. 
+
+To launch the notebook, open terminal and run the command: 
+
+- importing data: jupyter notebook importData.ipynb
+- generate CrossTabs: jupyter notebook createCrossTabs.ipynb
+  
+[!NOTE]
+You will notice notebooks for some tasks have been split into several notebooks, this is due to not having enough RAM on my CareerFoundry laptop, we were advised to split our notebooks to be able to continue with our tasks. The notebooks are clearly marked, therefore, you will be able to open one after another and continue checking the code. 
