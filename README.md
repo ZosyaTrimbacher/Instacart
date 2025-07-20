@@ -3,3 +3,13 @@
 # Objective 
 
 Instacart is an online grocery platform that operates through a mobile app. While the company already sees strong sales, it is seeking deeper insights into its sales patterns through data analysis. The goal is to identify trends and suggest improved customer segmentation strategies
+
+# Data
+
+The dataset comprises of information on the following parameters: 
+
+- orders
+- products
+- departments
+
+The details of the data are available [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
