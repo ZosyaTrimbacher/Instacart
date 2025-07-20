@@ -28,5 +28,5 @@ To launch the notebook, open terminal and run the command:
 - importing data: jupyter notebook importData.ipynb
 - generate CrossTabs: jupyter notebook createCrossTabs.ipynb
   
-[!NOTE]
-You will notice notebooks for some tasks have been split into several notebooks, this is due to not having enough RAM on my CareerFoundry laptop, we were advised to split our notebooks to be able to continue with our tasks. The notebooks are clearly marked, therefore, you will be able to open one after another and continue checking the code. 
+> [!NOTE]
+> You will notice notebooks for some tasks have been split into several notebooks, this is due to not having enough RAM on my CareerFoundry laptop, we were advised to split our notebooks to be able to continue with our tasks. The notebooks are clearly marked, therefore, you will be able to open one after another and continue checking the code. 
